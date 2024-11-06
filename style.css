@@ -1,0 +1,22 @@
+.wy {
+text-align: center;
+background-color:rgb(183, 230, 214);
+color: rgb(49, 114, 116);
+border: 2px red solid;
+border-radius: 30px;
+}
+.raw{
+background-color: red;
+text-align: center;
+
+}
+.can{
+background-color: blueviolet;
+text-align: center;
+
+
+}
+.op{
+background-color: green;
+text-align: center;
+}
